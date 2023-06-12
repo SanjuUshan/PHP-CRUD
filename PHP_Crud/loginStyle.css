@@ -1,0 +1,24 @@
+.body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: white;
+    opacity: 0.9;
+    border: 0 none;
+    border-radius: 3px;
+    box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
+    padding: 20px 30px;
+    box-sizing: border-box;
+    width: 30%;
+    margin: 7% 20% 0% 33%;
+    display: block;
+    position: relative;
+}
+
+.signup {
+    padding-left: 80px;
+}
